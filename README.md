@@ -32,4 +32,4 @@ docker compose up -d
 
 - **[react/](http://localhost:3000/)**
 - **[server/](http://localhost:50051/)**
-- **[envoy/](http://localhost:9901/)**
+- **[envoy/](http://localhost:9901/)*
