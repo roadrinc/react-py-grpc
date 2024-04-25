@@ -18,7 +18,7 @@ pip install -r requirements.txt
 python server.py
 ```
 
-### CLIENT
+### CLIENT (node v18)
 ```bash
 cd client
 npm i
